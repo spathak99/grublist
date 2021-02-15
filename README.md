@@ -51,5 +51,7 @@ Food:
 - Halal Fried Chicken
 - Tia Juana Mexican Grill
 - Mori Kitchen
-Aa
-
+- Yokohama Los Gatos
+- La Esquina
+- Go Fish Poke
+- Cafe LaTTea
