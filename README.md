@@ -46,6 +46,7 @@ Food:
 - Tacos El Noa Noa
 - Speedy’s Tacos
 - Bento Express
+- Myungrang Hot Dog
 - Chelokababi Persian
 - Greek Spot
 - Halal Fried Chicken
